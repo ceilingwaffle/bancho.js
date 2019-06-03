@@ -1,5 +1,5 @@
 {
-  "name": "bancho.js",
+  "name": "bancho.js-mock",
   "version": "0.9.5",
   "description": "Interface with Bancho over IRC, made easy and reliable",
   "main": "index.js",
