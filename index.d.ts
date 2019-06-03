@@ -1,4 +1,4 @@
-declare module "bancho.js" {
+declare module "bancho.js-mock" {
 	import { EventEmitter } from "events";
 	import * as nodesu from "nodesu";
 
